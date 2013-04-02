@@ -35,21 +35,21 @@
  ********************************************************************************/
 
 
-$app_list_strings['moduleList']['gdocs_GroupDocs'] = 'GroupDocs';
-$app_list_strings['gdocs_groupdocs_category_dom'][''] = '';
-$app_list_strings['gdocs_groupdocs_category_dom']['Marketing'] = 'Marketing';
-$app_list_strings['gdocs_groupdocs_category_dom']['Knowledege Base'] = 'Knowledge Base';
-$app_list_strings['gdocs_groupdocs_category_dom']['Sales'] = 'Sales';
-$app_list_strings['gdocs_groupdocs_subcategory_dom'][''] = '';
-$app_list_strings['gdocs_groupdocs_subcategory_dom']['Marketing Collateral'] = 'Marketing Collateral';
-$app_list_strings['gdocs_groupdocs_subcategory_dom']['Product Brochures'] = 'Product Brochures';
-$app_list_strings['gdocs_groupdocs_subcategory_dom']['FAQ'] = 'FAQ';
-$app_list_strings['gdocs_groupdocs_status_dom']['Active'] = 'Active';
-$app_list_strings['gdocs_groupdocs_status_dom']['Draft'] = 'Draft';
-$app_list_strings['gdocs_groupdocs_status_dom']['FAQ'] = 'FAQ';
-$app_list_strings['gdocs_groupdocs_status_dom']['Expired'] = 'Expired';
-$app_list_strings['gdocs_groupdocs_status_dom']['Under Review'] = 'Under Review';
-$app_list_strings['gdocs_groupdocs_status_dom']['Pending'] = 'Pending';
-$app_list_strings['parent_type_display']['gdocs_GroupDocs'] = 'GroupDocs';
-$app_list_strings['record_type_display']['gdocs_GroupDocs'] = 'GroupDocs';
-$app_list_strings['record_type_display_notes']['gdocs_GroupDocs'] = 'GroupDocs';
+$app_list_strings['moduleList']['gdocsc_GroupDocs_Comparison'] = 'GroupDocs_Comparison';
+$app_list_strings['gdocsc_groupdocs_signature_category_dom'][''] = '';
+$app_list_strings['gdocsc_groupdocs_signature_category_dom']['Marketing'] = 'Marketing';
+$app_list_strings['gdocsc_groupdocs_signature_category_dom']['Knowledege Base'] = 'Knowledge Base';
+$app_list_strings['gdocsc_groupdocs_signature_category_dom']['Sales'] = 'Sales';
+$app_list_strings['gdocsc_groupdocs_signature_subcategory_dom'][''] = '';
+$app_list_strings['gdocsc_groupdocs_signature_subcategory_dom']['Marketing Collateral'] = 'Marketing Collateral';
+$app_list_strings['gdocsc_groupdocs_signature_subcategory_dom']['Product Brochures'] = 'Product Brochures';
+$app_list_strings['gdocsc_groupdocs_signature_subcategory_dom']['FAQ'] = 'FAQ';
+$app_list_strings['gdocsc_groupdocs_signature_status_dom']['Active'] = 'Active';
+$app_list_strings['gdocsc_groupdocs_signature_status_dom']['Draft'] = 'Draft';
+$app_list_strings['gdocsc_groupdocs_signature_status_dom']['FAQ'] = 'FAQ';
+$app_list_strings['gdocsc_groupdocs_signature_status_dom']['Expired'] = 'Expired';
+$app_list_strings['gdocsc_groupdocs_signature_status_dom']['Under Review'] = 'Under Review';
+$app_list_strings['gdocsc_groupdocs_signature_status_dom']['Pending'] = 'Pending';
+$app_list_strings['parent_type_display']['gdocsc_GroupDocs_Comparison'] = 'GroupDocs_Comparison';
+$app_list_strings['record_type_display']['gdocsc_GroupDocs_Comparison'] = 'GroupDocs_Comparison';
+$app_list_strings['record_type_display_notes']['gdocsc_GroupDocs_Comparison'] = 'GroupDocs_Comparison';

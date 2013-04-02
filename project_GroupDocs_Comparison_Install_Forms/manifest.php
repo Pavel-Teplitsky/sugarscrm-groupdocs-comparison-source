@@ -54,13 +54,13 @@ $manifest = array (
     ),
   ),
   'readme' => '',
-  'key' => 'gdocc',
+  'key' => 'gdocsc',
   'author' => 'GroupDocs',
-  'description' => 'GroupDocs Comparison API',
+  'description' => 'GroupDocs API',
   'icon' => '',
   'is_uninstallable' => true,
   'name' => 'project_GroupDocs_Comparison',
-  'published_date' => '2013-03-27 18:21:27',
+  'published_date' => '2013-01-14 18:21:27',
   'type' => 'module',
   'version' => 1345573290,
   'remove_tables' => 'prompt',
@@ -74,7 +74,7 @@ $installdefs = array (
     0 => 
     array (
       'from' => '<basepath>/GroupDocs_Comparison',
-      'to' => 'custom/modulebuilder/packages/gdocc_GroupDocs_Comparison',
+      'to' => 'custom/modulebuilder/packages/gdocsc_GroupDocs_Comparison',
     ),
   ),
 );

@@ -54,13 +54,13 @@ $manifest = array (
     ),
   ),
   'readme' => '',
-  'key' => 'gdocc',
-  'author' => 'GroupDocs_Comparison',
-  'description' => 'GroupDocs_Comparison API',
+  'key' => 'gdocsc',
+  'author' => 'GRoupDocs',
+  'description' => 'GroupDocs API',
   'icon' => '',
   'is_uninstallable' => true,
-  'name' => 'GroupDocs Comparison',
-  'published_date' => '2013-03-27 18:28:07',
+  'name' => 'GroupDocs_Comparison',
+  'published_date' => '2013-01-12 18:28:07',
   'type' => 'module',
   'version' => 1345573688,
   'remove_tables' => 'prompt',
@@ -73,9 +73,9 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'module' => 'gdocc_GroupDocs_Comparison',
-      'class' => 'gdocc_GroupDocs_Comparison',
-      'path' => 'modules/gdocc_GroupDocs_Comparison/gdocc_GroupDocs_Comparison.php',
+      'module' => 'gdocsc_GroupDocs_Comparison',
+      'class' => 'gdocsc_GroupDocs_Comparison',
+      'path' => 'modules/gdocsc_GroupDocs_Comparison/gdocsc_GroupDocs_Comparison.php',
       'tab' => true,
     ),
   ),
@@ -83,143 +83,143 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_accounts_Accounts.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_accounts_Accounts.php',
       'to_module' => 'Accounts',
     ),
     1 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_accounts_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_accounts_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     2 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_activities_calls_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_activities_calls_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     3 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_contacts_Contacts.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_contacts_Contacts.php',
       'to_module' => 'Contacts',
     ),
     4 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_contacts_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_contacts_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     5 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_documents_Documents.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_documents_Documents.php',
       'to_module' => 'Documents',
     ),
     6 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_documents_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_documents_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     7 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_notes_Notes.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_notes_Notes.php',
       'to_module' => 'Notes',
     ),
     8 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_notes_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_notes_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     9 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_opportunities_Opportunities.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_opportunities_Opportunities.php',
       'to_module' => 'Opportunities',
     ),
     10 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_opportunities_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_opportunities_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     11 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_project_Project.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_project_Project.php',
       'to_module' => 'Project',
     ),
     12 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_project_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_project_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     13 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_tasks_Tasks.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_tasks_Tasks.php',
       'to_module' => 'Tasks',
     ),
     14 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_tasks_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_tasks_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     15 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_users_Users.php',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_users_Users.php',
       'to_module' => 'Users',
     ),
     16 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocc_groupdocs_comparison_users_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/gdocsc_groupdocs_comparison_users_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
   ),
   'relationships' => 
   array (
     0 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_accountsMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_accountsMetaData.php',
     ),
     1 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_activities_callsMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_activities_callsMetaData.php',
     ),
     2 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_activities_meetingsMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_activities_meetingsMetaData.php',
     ),
     3 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_activities_notesMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_activities_notesMetaData.php',
     ),
     4 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_activities_tasksMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_activities_tasksMetaData.php',
     ),
     5 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_activities_emailsMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_activities_emailsMetaData.php',
     ),
     6 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_contactsMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_contactsMetaData.php',
     ),
     7 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_documentsMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_documentsMetaData.php',
     ),
     8 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_notesMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_notesMetaData.php',
     ),
     9 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_opportunitiesMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_opportunitiesMetaData.php',
     ),
     10 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_projectMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_projectMetaData.php',
     ),
     11 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_tasksMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_tasksMetaData.php',
     ),
     12 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocc_groupdocs_comparison_usersMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/gdocsc_groupdocs_comparison_usersMetaData.php',
     ),
   ),
   'image_dir' => '<basepath>/icons',
@@ -227,8 +227,8 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'from' => '<basepath>/SugarModules/modules/gdocc_GroupDocs_Comparison',
-      'to' => 'modules/gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/modules/gdocsc_GroupDocs_Comparison',
+      'to' => 'modules/gdocsc_GroupDocs_Comparison',
     ),
   ),
   'language' => 
@@ -241,8 +241,8 @@ $installdefs = array (
     ),
     1 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     2 => 
@@ -253,32 +253,32 @@ $installdefs = array (
     ),
     3 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     4 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     5 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     6 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     7 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     8 => 
@@ -289,8 +289,8 @@ $installdefs = array (
     ),
     9 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     10 => 
@@ -301,8 +301,8 @@ $installdefs = array (
     ),
     11 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     12 => 
@@ -313,8 +313,8 @@ $installdefs = array (
     ),
     13 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     14 => 
@@ -325,8 +325,8 @@ $installdefs = array (
     ),
     15 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     16 => 
@@ -337,8 +337,8 @@ $installdefs = array (
     ),
     17 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     18 => 
@@ -349,8 +349,8 @@ $installdefs = array (
     ),
     19 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     20 => 
@@ -361,8 +361,8 @@ $installdefs = array (
     ),
     21 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/language/gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
       'language' => 'en_us',
     ),
     22 => 
@@ -376,133 +376,133 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_accounts_Accounts.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_accounts_Accounts.php',
       'to_module' => 'Accounts',
     ),
     1 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_accounts_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_accounts_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     2 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_calls_Calls.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_calls_Calls.php',
       'to_module' => 'Calls',
     ),
     3 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_calls_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_calls_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     4 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_meetings_Meetings.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_meetings_Meetings.php',
       'to_module' => 'Meetings',
     ),
     5 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_meetings_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_meetings_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     6 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_notes_Notes.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_notes_Notes.php',
       'to_module' => 'Notes',
     ),
     7 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_notes_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_notes_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     8 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_tasks_Tasks.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_tasks_Tasks.php',
       'to_module' => 'Tasks',
     ),
     9 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_tasks_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_tasks_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     10 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_emails_Emails.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_emails_Emails.php',
       'to_module' => 'Emails',
     ),
     11 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_activities_emails_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_activities_emails_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     12 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_contacts_Contacts.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_contacts_Contacts.php',
       'to_module' => 'Contacts',
     ),
     13 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_contacts_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_contacts_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     14 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_documents_Documents.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_documents_Documents.php',
       'to_module' => 'Documents',
     ),
     15 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_documents_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_documents_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     16 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_notes_Notes.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_notes_Notes.php',
       'to_module' => 'Notes',
     ),
     17 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_notes_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_notes_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     18 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_opportunities_Opportunities.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_opportunities_Opportunities.php',
       'to_module' => 'Opportunities',
     ),
     19 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_opportunities_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_opportunities_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     20 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_project_Project.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_project_Project.php',
       'to_module' => 'Project',
     ),
     21 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_project_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_project_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     22 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_tasks_Tasks.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_tasks_Tasks.php',
       'to_module' => 'Tasks',
     ),
     23 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_tasks_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_tasks_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
     24 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_users_Users.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_users_Users.php',
       'to_module' => 'Users',
     ),
     25 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocc_groupdocs_comparison_users_gdocc_GroupDocs_Comparison.php',
-      'to_module' => 'gdocc_GroupDocs_Comparison',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/gdocsc_groupdocs_comparison_users_gdocsc_GroupDocs_Comparison.php',
+      'to_module' => 'gdocsc_GroupDocs_Comparison',
     ),
   ),
   'layoutfields' => 
@@ -511,28 +511,28 @@ $installdefs = array (
     array (
       'additional_fields' => 
       array (
-        'Calls' => 'gdocc_groupdocs_comparison_activities_calls_name',
+        'Calls' => 'gdocsc_groupdocs_comparison_activities_calls_name',
       ),
     ),
     1 => 
     array (
       'additional_fields' => 
       array (
-        'Meetings' => 'gdocc_groupdocs_comparison_activities_meetings_name',
+        'Meetings' => 'gdocsc_groupdocs_comparison_activities_meetings_name',
       ),
     ),
     2 => 
     array (
       'additional_fields' => 
       array (
-        'Notes' => 'gdocc_groupdocs_comparison_activities_notes_name',
+        'Notes' => 'gdocsc_groupdocs_comparison_activities_notes_name',
       ),
     ),
     3 => 
     array (
       'additional_fields' => 
       array (
-        'Tasks' => 'gdocc_groupdocs_comparison_activities_tasks_name',
+        'Tasks' => 'gdocsc_groupdocs_comparison_activities_tasks_name',
       ),
     ),
     4 => 
